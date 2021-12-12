@@ -3,6 +3,7 @@
 #### Categorie : Cryptographie
 #### Points : 50
 #### Difficulté : Facile/Moyen
+#### Auteur : Langley
 Challenge : [Smiley😃](https://challenges.cybernight-c.tf/challenges#Smiley😃-53)
 #
 
