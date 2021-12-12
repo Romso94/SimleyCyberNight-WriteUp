@@ -67,6 +67,12 @@ print(Flag)
 Et le flag a été trouvé : 
 
     CYBN{😮_4V3_un1c0d3_🧮}
+    
+
+
+
+
+@SuperSo6  -  @Noct
 
 
     
